@@ -271,9 +271,6 @@ Validate data backup and recovery procedures for CRUD-related data.
 
 
 
-
-
-
 Test Environments
 
 The operating systems and versions that will be used for testing, such as Windows 10, macOS, or Linux.
@@ -297,6 +294,7 @@ QA
 https://restful-booker.herokuapp.com/apidoc/index.html
 Pre Prod
 https://restful-booker.herokuapp.com/apidoc/index.html
+
 
 
  Windows 10 – Chrome, Firefox and Edge
@@ -329,6 +327,8 @@ Backend
 Sonal
 Dev Ops
 Prajeeth
+
+
 
 
 Tools - JIRA
@@ -386,13 +386,16 @@ Step3 –  We will follow the below best practices to make our Testing better:
 of the given application.
 
 
-• Shift Left Testing – We will start testing from the beginning stages of the development itself, instead of waiting for the stable build.
+• Shift Left Testing – We will start testing from the beginning stages of the
+development itself, instead of waiting for the stable build.
 
 
-• Exploratory Testing – Using our expertise we will perform Exploratory Testing, apart from the normal execution of the Test cases.
+• Exploratory Testing – Using our expertise we will perform Exploratory
+Testing, apart from the normal execution of the Test cases.
 
 
-• End to End Flow Testing – We will test the end-to-end scenario which involve multiple functionalities to simulate the end user flows.
+• End to End Flow Testing – We will test the end-to-end scenario which
+involve multiple functionalities to simulate the end user flows.
 
 
 Test Schedule
@@ -441,6 +444,7 @@ Exit Criteria:
 
 
 
+
 Test Execution
 Entry Criteria:
 • Test Scenarios and Test Cases Documents are signed-off by the Client
@@ -454,6 +458,7 @@ Entry Criteria:
 • Test Case Reports, Defect Reports are ready
 Exit Criteria:
 • Test Summary Reports
+
 
 
 Tools
@@ -487,4 +492,4 @@ Testing will only continue to the next steps once these approvals are done
 
 ## Security and safety
 
-Make sure that the output doesn't have any personal Information or any risky related things .
+Make sure that the output doesn't have any personal Information or any risky related things . 

@@ -20,7 +20,7 @@ agents:
   - github-copilot
 ---
 
-# Test plan Creator
+# Test case Creator
 
 Your task is to create test cases based on the information shared by the user. Also, make sure that you use proper templates provided as input 
 
@@ -72,4 +72,4 @@ The following:
 
 ## Security and safety
 
-Make sure that the output doesn't have any personal Information or any risky related things. No automation testing-related concepts to be included.   
+Make sure that the output doesn't have any personal Information or any risky related things. No automation testing-related concepts to be included.  
