@@ -1,5 +1,5 @@
 ---
-name: advance-testplan-creator
+name: testplan-creator-skill
 description: Turn a JIRA ticket into a review-ready test plan. Use when a tester or QA lead says "write a test plan for JIRA-1234 or KAN-123  ", "plan testing for this story", "what
   should we test here", or pastes an acceptance-criteria / user-story ticket.
   Fetches the ticket, analyzes it for gaps and ambiguities, fills the standard
